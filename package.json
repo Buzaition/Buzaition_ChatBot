@@ -1,0 +1,14 @@
+{
+  "name": "ai-chatbot-website",
+  "version": "1.0.0",
+  "description": "Buzaition Bot, a GPT-style chatbot website powered by the Google Gemini API.",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "vercel-build": "echo Static site ready"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
